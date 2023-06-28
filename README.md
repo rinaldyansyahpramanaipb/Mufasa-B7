@@ -14,9 +14,9 @@ Sumber: https://ekonomi.republika.co.id/berita/rsznc2502/bri-transaksi-brimo-mel
 * 7,6 juta dari 17 juta penyandang disabilitas usia produktif bekerja.
 Sumber: https://www.kominfo.go.id/content/detail/47936/siaran-pers-no-35hmkominfo032023-tentang-kominfo-perkuat-kolaborasi-aksi-literasi-digital-untuk-disabilitas/0/siaran_pers
 
-* BRI mendapatkan Penghargaan Nasional dalam Penghormatan, Perlindungan, dan Pemenuhan Hak Pekerjaan Penyandang Disabilitas Tahun 2022. (Annual Report BRI 2022)
+* BRI mendapatkan Penghargaan Nasional dalam Penghormatan, Perlindungan, dan Pemenuhan Hak Pekerjaan Penyandang Disabilitas Tahun 2022. ***(Annual Report BRI 2022)***
 
-* BRI juga menjunjung tinggi adanya keberagaman, asas kesetaraan dan menerapkan kebijakan anti diskriminasi di setiap fungsi pengelolaan human capital, baik dalam aspek pengembangan karir, remunerasi maupun aspek pengelolaan human capital lainnya. Salah satu wujud nyata penerapan keberagaman di BRI adalah dengan dibukanya kesempatan bagi Pekerja disabilitas (disesuaikan dengan keahlian dan keterampilan Pekerja). Hal tersebut bertujuan untuk meningkatkan semangat kerja Pekerja, memberikan keragaman pada perusahaan, meningkatkan kualitas layanan pelanggan dari kalangan penyandang disabilitas serta sekaligus meningkatkan produktivitas Pekerja untuk bekerja dalam keberagaman. Selama tahun 2020-2021, berikut adalah jumlah pegawai penyandang disabilitas yang bekerja di BRI (Annual Report BRI 2021):
+* BRI juga menjunjung tinggi adanya keberagaman, asas kesetaraan dan menerapkan kebijakan anti diskriminasi di setiap fungsi pengelolaan human capital, baik dalam aspek pengembangan karir, remunerasi maupun aspek pengelolaan human capital lainnya. Salah satu wujud nyata penerapan keberagaman di BRI adalah dengan dibukanya kesempatan bagi Pekerja disabilitas (disesuaikan dengan keahlian dan keterampilan Pekerja). Hal tersebut bertujuan untuk meningkatkan semangat kerja Pekerja, memberikan keragaman pada perusahaan, meningkatkan kualitas layanan pelanggan dari kalangan penyandang disabilitas serta sekaligus meningkatkan produktivitas Pekerja untuk bekerja dalam keberagaman. Selama tahun 2020-2021, berikut adalah jumlah pegawai penyandang disabilitas yang bekerja di BRI ***(Annual Report BRI 2021)***:
 <img width="569" alt="Tabel-pegawai-disabilitas" src="https://github.com/rinaldyansyahpramanaipb/Mufasa-B7/assets/60166722/4c33ee47-b698-4ce5-ac94-9c5492a3040e">
 
 * General awareness of voice technology is high. Only 10% of surveyed respondents were not familiar with voice-enabled products and devices. Of the 90% who were, the majority have used a voice assistant (72%). Adoption is being driven by younger consumers, households with children, and households with an income of >$100k.
@@ -49,4 +49,5 @@ Sumber:[
 https://www.unescap.org/sites/default/files/Disability%20The%20Facts.pdf
 
 ## Tools Supporting DevSecOps
-https://github.com/rinaldyansyahpramanaipb/Mufasa-B7/assets/60166722/7c246389-3386-44b6-bbdd-b1a6fa627dbe
+![tools-supporting-devsecops](https://github.com/rinaldyansyahpramanaipb/Mufasa-B7/assets/60166722/249fc14b-c0b0-444e-8827-bb85b139a936)
+
